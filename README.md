@@ -3,21 +3,20 @@
 </p>
 
 ### Hi there 👋
-This is Ashraful Jannat, a passionate Software Engineer from Dhaka, Bangladesh.
+This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. 
 
 <!--
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🤔 ⚡
 -->
-- 🔭 I’m currently working on a JAVA EE Application
-- 🌱 I’m currently learning Node JS and Mongo DB
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Currently working on a JAVA EE Application
+- 🌱 Currently learning Node JS and Mongo DB
+- 👯 Looking to contribute on open-source projects related to software development
+- 💬 Open to discussions about software engineering
+- 📖 Currently reading some books on JAVA
+
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS and OTHERS -**
 
