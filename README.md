@@ -6,9 +6,11 @@
 <img alt="GIF" src="https://github.com/ajannat/ajannat/blob/main/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
-### Hi there 👋
+### HI THERE!!! 👋
 
+<div style="text-align: justify">
 This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I am a part of a large team which works on a large scale JAVA application that serves thousands of people. I mostly work as a full-stack developer.
+</div>
 
 <!--
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
