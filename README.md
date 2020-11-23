@@ -1,8 +1,13 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+</p>
+-->
+<p align="center">
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
 </p>
 
 ### Hi there 👋
+
 This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. 
 
 <!--
@@ -11,6 +16,7 @@ This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Ass
 Here are some ideas to get you started:
 🤔 ⚡
 -->
+
 - 🔭 Currently working on a JAVA EE Application
 - 🌱 Currently learning Node JS and Mongo DB
 - 👯 Looking to contribute on open-source projects related to software development
@@ -51,7 +57,7 @@ Here are some ideas to get you started:
 
 </p>
 
-## **Reach me on -**
+## **REACH ME -**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -77,7 +83,7 @@ for later--
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=ajannat&show_icons=true&theme=gotham&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&hide=jupyter%20notebook,html&theme=gotham&hide_border=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&hide=jupyter%20notebook,html&theme=gotham&hide_border=true"> -->
 
 </p>
 
