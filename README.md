@@ -3,7 +3,7 @@
 </p>
 -->
 <p align="center">
-<img alt="GIF" src="https://github.com/ajannat/ajannat/blob/main/code.gif?raw=true" width="600" height="300" />
+<img alt="GIF" src="https://github.com/ajannat/ajannat/blob/main/gifs/code.gif?raw=true" width="600" height="300" />
 </p>
 
 ### Hi there 👋
