@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. 
+This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I work on a large scale JAVA application that serves thousands of people.
 
 <!--
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## **LANGUAGES, FRAMEWORKS, TOOLS and OTHERS -**
 
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23507e9c.svg?&style=for-the-badge&logo=java&logoColor=f0953b"/>
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2342759c.svg?&style=for-the-badge&logo=mysql&logoColor=db8a35"/>
 
 <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
