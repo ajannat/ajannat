@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 This is Ashraful Jannat, a passionate Software Engineer from Dhaka, Bangladesh.
-#
+
 <!--
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## **LANGUAGES, FRAMEWORKS, TOOLS and OTHERS -**
-#
+
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 
 ## **Reach me on -**
-#
+
 <p align="center">
 <a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -74,7 +74,7 @@ for later--
  -->
 
 ## **📈 MY CODING STATS -**
-#
+
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=ajannat&show_icons=true&theme=gotham&hide_border=true">
 
