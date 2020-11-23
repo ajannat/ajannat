@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I work on a large scale JAVA application that serves thousands of people.
+This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I am a part of a large team which works on a large scale JAVA application that serves thousands of people. I mostly work as a full-stack developer.
 
 <!--
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
