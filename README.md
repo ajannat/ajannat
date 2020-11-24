@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## **LANGUAGES, FRAMEWORKS, TOOLS and OTHERS -**
 
 <p align="center">
-<img src="https://img.shields.io/badge/java-%23507e9c.svg?&style=for-the-badge&logo=java&logoColor=f0953b"/>
+<img src="https://img.shields.io/badge/java-%23f0953b.svg?&style=for-the-badge&logo=java&logoColor=507e9c"/>
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -85,7 +85,7 @@ for later--
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=ajannat&show_icons=true&theme=gotham&hide_border=true">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&hide=jupyter%20notebook,html&theme=gotham&hide_border=true"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&hide=html,css&theme=gotham&hide_border=true">
 
 </p>
 
