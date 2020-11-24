@@ -72,7 +72,7 @@ for later--
 <img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  -->
 
-## **MY CODING STATS -**
+## **CODING STATS -**
 
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=ajannat&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
@@ -81,18 +81,19 @@ for later--
 
 </p>
 
-<!--
+
 ## 🔖 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/golamSaroar/facial-expression-detection">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=git-cheatsheet&theme=graywhite&hide_border=false" />
-  </a>
-  <a href="https://github.com/golamSaroar/python-interactive-dashboard">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain&theme=graywhite" />
-  </a>
+    <a href="https://github.com/ajannat/git-cheatsheet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=git-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </a>
+    <a href="https://github.com/ajannat/a-tiny-blockchain
+    "><img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain
+    &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    </a>
 </p>
--->
+
 
 ## **REACH ME -**
 
