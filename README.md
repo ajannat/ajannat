@@ -16,7 +16,7 @@ This is Ashraful Jannat from Dhaka, Bangladesh. Currently, I am working as an As
 **ajannat/ajannat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-🤔 ⚡ 📈
+🤔 ⚡ 📈 🔖
 -->
 
 - 🔭 Currently working on a JAVA EE Application
@@ -82,7 +82,7 @@ for later--
 </p>
 
 
-## 🔖 Featured Projects
+## **FEATURED PROJECTS -**
 
 <p align="center">
     <a href="https://github.com/ajannat/git-cheatsheet">
@@ -101,3 +101,6 @@ for later--
     <a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain
+    &theme=gotham"/>
