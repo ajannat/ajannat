@@ -83,9 +83,9 @@ for later--
 ## **📈 MY CODING STATS -**
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajannat&show_icons=true&theme=gotham&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ajannat&count_private=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&hide=html,css&theme=gotham&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajannat&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
 
 </p>
 
