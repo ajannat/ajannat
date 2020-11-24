@@ -100,7 +100,3 @@ for later--
     <a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=developer-roadmap
-    &theme=gotham"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain&theme=gotham"/>
