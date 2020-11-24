@@ -59,15 +59,6 @@ Here are some ideas to get you started:
 
 </p>
 
-## **REACH ME -**
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
-
-
 
 <!-- 
 for later--
@@ -101,3 +92,10 @@ for later--
   </a>
 </p>
 -->
+
+## **REACH ME -**
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/ajannat/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
