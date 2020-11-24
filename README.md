@@ -9,7 +9,7 @@
 ### HI THERE!!! 👋
 
 <p align="justify">
-This is Ashraful Jannat from Dhaka, Bangladesh. Currently I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I am a part of a large team which works on a large scale JAVA application that serves thousands of people. I mostly work as a full-stack developer.
+This is Ashraful Jannat from Dhaka, Bangladesh. Currently, I am working as an Assistant Software Engineer at Dynamic Solution Innovators Ltd for more than 1.5 years. I am a part of a large team that works on a large scale JAVA application that serves thousands of people. I mostly work as a full-stack developer. I help my team to build new features (both front-end and back-end) from scratch and implement it in the existing application.
 </p>
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on a JAVA EE Application
 - 🌱 Currently learning Node JS and Mongo DB
-- 👯 Looking to contribute on open-source projects related to software development
+- 👯 Looking to contribute to open-source projects related to software development
 - 💬 Open to discussions about software engineering
 - 📖 Currently reading some books on JAVA
 
