@@ -86,11 +86,11 @@ for later--
 
 <p align="center">
     <a href="https://github.com/ajannat/git-cheatsheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=git-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=git-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
     </a>
     <a href="https://github.com/ajannat/a-tiny-blockchain
     "><img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain
-    &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
     </a>
 </p>
 
@@ -102,5 +102,5 @@ for later--
     <a href="https://www.facebook.com/ajannattt/"><img src="https://img.shields.io/badge/facebook%20-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=developer-roadmap
     &theme=gotham"/>
