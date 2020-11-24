@@ -89,8 +89,7 @@ for later--
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=git-cheatsheet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
     </a>
     <a href="https://github.com/ajannat/a-tiny-blockchain
-    "><img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain
-    &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+    "><img src="https://github-readme-stats.vercel.app/api/pin/?username=ajannat&repo=a-tiny-blockchain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
     </a>
 </p>
 
